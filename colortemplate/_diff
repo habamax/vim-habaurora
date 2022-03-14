@@ -1,12 +1,19 @@
 ; vim: ft=colortemplate cc=20,35,50 vsts=19,15,15,4
 
-Variant:    gui 256 16
-
-Color: bgDiffA     #AFD7AF        151            green
-Color: bgDiffD     #D7AFD7        182            magenta
-Color: bgDiffC     #87AFD7        110            blue
-Color: bgDiffT     #AFD7FF        152            cyan
+Color: bgDiffA     #CFE4CF        151            green
+Color: bgDiffD     #E4CFE4        182            magenta
+Color: bgDiffC     #BFCFE4        110            blue
+Color: bgDiffT     #BFE4E4        152            cyan
 Color: fgDiff      #000000        16             black
+
+Variant:           gui
+
+DiffAdd            none           bgDiffA
+DiffChange         none           bgDiffC
+DiffText           none           bgDiffT
+DiffDelete         none           bgDiffD
+
+Variant:           256 16
 
 DiffAdd            fgDiff         bgDiffA
 DiffChange         fgDiff         bgDiffC
