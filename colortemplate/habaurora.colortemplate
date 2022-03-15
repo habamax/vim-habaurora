@@ -99,6 +99,9 @@ Cursor             color15        colorC
 lCursor            color00        colorlC
 Visual             none           colorV
 
+Variant: 256
+Visual             color15        color14
+
 Variant: 16
 StatuslineNC       color00        color07
 StatuslineTermNC   color00        color07
