@@ -4,6 +4,7 @@ Short name: habaurora
 Description: Hubba hubba hubba day is coming.
 Author: Maxim Kim <habamax@gmail.com>
 
+Include: _links_ft
 
 Background: light
 
@@ -151,7 +152,7 @@ Type               color04        none
 
 Special            color14        none
 
-Underlined         color12        none           underline
+Underlined         color04        none           underline
 
 Title              color03        none           g=bold
 Directory          color04        none           g=bold
