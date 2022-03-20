@@ -4,7 +4,7 @@ Short name: habaurora
 Description: Hubba hubba hubba day is coming.
 Author: Maxim Kim <habamax@gmail.com>
 
-Include: _links_ft
+Include: _habaurora/_links_ft
 
 Background: light
 
@@ -164,7 +164,7 @@ Ignore             none           none
 Debug              color14        none
 
 ; Diff colors
-Include: _diff
+Include: _habaurora/_diff
 
 
 ; No color support
