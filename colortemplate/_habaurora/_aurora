@@ -30,7 +30,7 @@ Color: colorB        #EEEEEE        255            grey
 Color: colorNonT     #B2B2B2        249            grey
 Color: colorC        #D7005F        161            red
 Color: colorlC       #0000FF        21             blue
-Color: colorV        #B3D0E7        195            darkcyan
+Color: colorV        #B3D0E7        67             darkcyan
 
 
 Term colors: color00 color01 color02 color03 color04 color05 color06 color07
