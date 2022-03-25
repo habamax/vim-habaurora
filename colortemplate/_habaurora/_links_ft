@@ -10,7 +10,7 @@ vimOper                             -> Normal
 vimSep                              -> Normal
 vimParenSep                         -> Normal
 markdownUrl                         -> String
-elixirOperator                      -> PreProc
+elixirOperator                      -> Statement
 elixirKeyword                       -> Statement
 elixirBlockDefinition               -> Statement
 elixirDefine                        -> Statement
@@ -31,3 +31,5 @@ elixirCallbackDefine                -> Statement
 elixirStructDefine                  -> Statement
 elixirExUnitMacro                   -> Statement
 elixirInclude                       -> Statement
+elixirAtom                          -> PreProc
+elixirDocTest                       -> String
