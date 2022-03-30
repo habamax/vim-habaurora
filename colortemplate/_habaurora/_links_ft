@@ -11,6 +11,7 @@ vimVar                              -> Normal
 vimOper                             -> Normal
 vimSep                              -> Normal
 vimParenSep                         -> Normal
+vimCommentString                    -> Comment
 markdownUrl                         -> String
 elixirOperator                      -> Statement
 elixirKeyword                       -> Statement
