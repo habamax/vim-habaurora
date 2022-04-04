@@ -12,3 +12,7 @@ Supports GUI and TUI with standard Xterm 256-color palette.
 ... and a pure white background variant ``habalbum`` for the shiny day:
 
 .. image:: https://user-images.githubusercontent.com/234774/159722892-07b5f900-a3c6-40c0-a084-16fc8030fe28.png
+
+... add a bit of yellow to your GUI (or term with termguicolors set) with ``habarena``:
+
+.. image:: https://user-images.githubusercontent.com/234774/161539799-eff87177-0df0-4716-bdb1-63f0e73bf2c2.png
