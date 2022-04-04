@@ -1,0 +1,19 @@
+; vim: cc=20,35,50 vsts=19,15,15,4
+Full name: habarena
+Short name: habarena
+Description: Hubba hubba sand is all over the place.
+Author: Maxim Kim <habamax@gmail.com>
+
+Include: _habaurora/_links_ft
+
+Background: light
+
+Include: _habaurora/_arena
+
+Include: _habaurora/_common_defs
+
+; Diff colors
+Include: _habaurora/_diff
+
+; No color support
+Include: _tcozero
