@@ -11,6 +11,7 @@ Background: light
 Include: _habaurora/_aurora
 
 Include: _habaurora/_common_defs
+Include: _habaurora/_common_syn
 
 ; Diff colors
 Include: _habaurora/_diff

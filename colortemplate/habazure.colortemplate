@@ -1,17 +1,17 @@
 ; vim: cc=20,35,50 vsts=19,15,15,4
-Full name: habalbum
-Short name: habalbum
-Description: Hubba hubba hubba day is here.
+Full name: habazure
+Short name: habazure
+Description: Hubba hubba there are blue pearls in the sand.
 Author: Maxim Kim <habamax@gmail.com>
 
 Include: _habaurora/_links_ft
 
 Background: light
 
-Include: _habaurora/_album
+Include: _habaurora/_arena
 
 Include: _habaurora/_common_defs
-Include: _habaurora/_common_syn
+Include: _habaurora/_azure_syn
 
 ; Diff colors
 Include: _habaurora/_diff
