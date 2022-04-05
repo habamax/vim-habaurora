@@ -22,7 +22,7 @@ Special              color14        none
 Underlined           color04        none           underline
 
 Title                color03        none           bold
-Directory            color04        none           bold
+Directory            color14        none           bold
 
 Conceal              color08        none
 Ignore               none           none
