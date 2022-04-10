@@ -45,6 +45,7 @@ WarningMsg           color09        none
 Todo                 color11        color00        reverse
 Search               color15        color10
 IncSearch            color15        colorC
+CurSearch            color15        color03
 WildMenu             color00        color11
 
 debugPC              color15        color04
@@ -52,8 +53,8 @@ debugBreakpoint      color15        color01
 
 
 Variant: gui
-Cursor               color15        colorC
-lCursor              color00        colorlC
+Cursor               colorC         color15        reverse
+lCursor              colorlC        color00        reverse
 Visual               none           colorV
 MatchParen           none           colorMP
 
